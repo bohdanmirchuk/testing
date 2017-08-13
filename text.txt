@@ -1,2 +1,1 @@
-Some text
-is written here
+Some text was written here
